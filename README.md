@@ -1,3 +1,5 @@
 # PyConPL
 
-Talk I gave on https://pl.pycon.org/2017/
+https://pl.pycon.org/2017/
+
+# WeAreDevelopers 2018
