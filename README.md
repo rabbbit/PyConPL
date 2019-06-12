@@ -1,5 +1,1 @@
-# PyConPL
-
-https://pl.pycon.org/2017/
-
-# WeAreDevelopers 2018
+Things I spoke. 
